@@ -1,5 +1,5 @@
 # Searching for Champions
-<hr style="border:2px solid gray"> </hr>
+
 ## API Description
 The find_champion is an API call that allows players to find a champion in the Champion page of the Collection tab. Players can search for a champion by name, role, or location of origin. A list of suggested champions displays based on the player’s search term. Search terms can be complete or partial words.
 
