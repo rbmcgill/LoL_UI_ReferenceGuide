@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ### Related Topics
-- [Searching Champions](#sorting_champions.md)
+- [Searching Champions](sorting_champions.md)
 - Searching for Skins
 - Sorting Emotes
 - Searching Runes
