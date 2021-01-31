@@ -1,9 +1,9 @@
 # Searching for Champions
 
-## API Description - find_champion
+## find_champion - API Description
 find_champion is an API call that allows players to find a champion in the Champion page of the Collection tab. Players can search for a champion by name, role, or location of origin. A list of suggested champions displays based on the player’s search term. Search terms can be complete or partial words.
 
-## API Requirements - find_champion
+## find_champion - API Requirements
 - Champion search parameters in order:
   1. name
   2. role
@@ -13,14 +13,16 @@ find_champion is an API call that allows players to find a champion in the Champ
 
 
 **Example:** If a player searches for “gang”, Gangplank displays.
+
 ![Gangplank search](Collection_Champions_Search.png)
+
 
 **Code:**
 **Call**
 
-``find_champion.
+>``find_champion.
 
-champion_data = [
+>champion_data = [
  {
  'name': 'ahri',
  'role': 'mid lane',
