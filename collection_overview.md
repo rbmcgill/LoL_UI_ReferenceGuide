@@ -5,6 +5,6 @@ Sem viverra aliquet eget sit amet tellus. Quis varius quam quisque id diam vel q
 ### Related Topics
 - [Sorting and Searching](sorting_and_searching.md)
   - [Searching Champions](searching_champions.md)
-  - Searching for Skins
+  - Searching Skins
   - Sorting Emotes
   - Searching Runes

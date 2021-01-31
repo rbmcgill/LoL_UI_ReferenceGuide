@@ -4,6 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Related Topics
 - [Searching Champions](searching_champions.md)
-- Searching for Skins
+- Searching Skins
 - Sorting Emotes
 - Searching Runes
