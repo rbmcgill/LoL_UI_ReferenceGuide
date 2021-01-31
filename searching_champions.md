@@ -19,7 +19,6 @@ find_champion is an API call that allows players to find a champion in the Champ
 
 **Code:**
 **Call**
-
 ```find_champion.
 
 champion_data = [
@@ -62,4 +61,4 @@ def find_champion(name=None, role=None, origin=None):
  if champ['origin'] != origin:
  continue
  champion_suggestions.append(champ)
- return champion_suggestions```
+ return champion_suggestions
