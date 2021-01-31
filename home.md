@@ -1,4 +1,4 @@
-![League of Legends Logo](images/lol-logo-rendered-hi-res.png) { width=50% }
+![League of Legends Logo](images/lol-logo-rendered-hi-res.png)
 # League of Legends User Interface Reference Guide
 
 
