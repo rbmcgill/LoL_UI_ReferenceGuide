@@ -1,4 +1,5 @@
 # Table of Contents
+<hr>
 - [Home](index.md)
 - [Profile](profile_overview.md)
 - [Collection](collection_overview.md)
