@@ -16,13 +16,13 @@ find_champion is an API call that allows players to find a champion in the Champ
 
 ![Gangplank search](Collection_Champions_Search.png)
 
-
+<br>
 **Code:**
 **Call**
 
->``find_champion.
+```find_champion.
 
->champion_data = [
+champion_data = [
  {
  'name': 'ahri',
  'role': 'mid lane',
@@ -62,4 +62,4 @@ def find_champion(name=None, role=None, origin=None):
  if champ['origin'] != origin:
  continue
  champion_suggestions.append(champ)
- return champion_suggestions``
+ return champion_suggestions```
