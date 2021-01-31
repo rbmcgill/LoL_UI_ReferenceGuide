@@ -17,7 +17,6 @@
 - Display the champion suggestions to the player
 
 ## Code Example
-
 **Code:**
 **Call**
 
