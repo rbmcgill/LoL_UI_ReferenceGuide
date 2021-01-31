@@ -19,6 +19,7 @@ find_champion is an API call that allows players to find a champion in the Champ
 
 **Code:**
 **Call**
+
 ```find_champion.
 
 champion_data = [
