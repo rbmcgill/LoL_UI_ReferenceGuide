@@ -1,4 +1,4 @@
-![League of Legends Logo](images/lol-logo-rendered-hi-res.png =250)
+![League of Legends Logo](images/lol-logo-rendered-hi-res.png =250px)
 # League of Legends User Interface Reference Guide
 
 
