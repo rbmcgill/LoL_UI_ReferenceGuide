@@ -1,9 +1,9 @@
 # Searching for Champions
 
-## API Description
-The find_champion is an API call that allows players to find a champion in the Champion page of the Collection tab. Players can search for a champion by name, role, or location of origin. A list of suggested champions displays based on the player’s search term. Search terms can be complete or partial words.
+## API Description - find_champion
+find_champion is an API call that allows players to find a champion in the Champion page of the Collection tab. Players can search for a champion by name, role, or location of origin. A list of suggested champions displays based on the player’s search term. Search terms can be complete or partial words.
 
-## API Requirements
+## API Requirements - find_champion
 - Champion search parameters in order:
   1. name
   2. role
@@ -18,7 +18,7 @@ The find_champion is an API call that allows players to find a champion in the C
 **Code:**
 **Call**
 
-`find_champion.
+``find_champion.
 
 champion_data = [
  {
@@ -60,4 +60,4 @@ def find_champion(name=None, role=None, origin=None):
  if champ['origin'] != origin:
  continue
  champion_suggestions.append(champ)
- return champion_suggestions`
+ return champion_suggestions``
