@@ -3,4 +3,4 @@
 
 
 
-<font style="size:1pt">© 2021 Riot Games, Inc. All rights reserved. League of Legends and Riot Games are trademarks, service marks, and registered trademarks of Riot Games, Inc.</font>
+<font style="font-size: 1pt">© 2021 Riot Games, Inc. All rights reserved. League of Legends and Riot Games are trademarks, service marks, and registered trademarks of Riot Games, Inc.</font>
