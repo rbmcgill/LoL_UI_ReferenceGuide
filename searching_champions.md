@@ -5,7 +5,7 @@ find_champion is an API call that allows players to find a champion in the Champ
 
 **Example:** If a player searches for “gang”, Gangplank displays.
 
-![Gangplank search](Collection_Champions_Search.png)
+![Gangplank search](images/Collection_Champions_Search.png)
 <br>
 
 ## find_champion - API Requirements
