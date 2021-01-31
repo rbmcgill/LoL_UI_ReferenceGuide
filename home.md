@@ -3,6 +3,6 @@
 
 
 
-<p style="font-size:0.5em">
+<p style="font-size:5pt">
     © 2021 Riot Games, Inc. All rights reserved. League of Legends and Riot Games are trademarks, service marks, and registered trademarks of Riot Games, Inc.
 </p>
