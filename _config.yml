@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: League of Legends User Interface Reference Guide
-description:
-TOC:
+description:  
 - [Home](index.md)
 - [Profile](profile_overview.md)
 - [Collection](collection_overview.md)

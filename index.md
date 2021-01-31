@@ -1,5 +1,5 @@
 ![League of Legends Logo](images/lol-logo-rendered-hi-res.png)
-# League of Legends User Interface Reference Guide
+# User Interface Reference Guide
 <hr>
 [Table of Contents](TOC.md)
 
