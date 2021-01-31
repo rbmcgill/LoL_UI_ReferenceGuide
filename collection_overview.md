@@ -4,7 +4,7 @@ Sem viverra aliquet eget sit amet tellus. Quis varius quam quisque id diam vel q
 
 ### Related Topics
 - [Sorting and Searching](sorting_and_searching.md)
-  - [Searching Champions](sorting_champions.md)
+  - [Searching Champions](searching_champions.md)
   - Searching for Skins
   - Sorting Emotes
   - Searching Runes
