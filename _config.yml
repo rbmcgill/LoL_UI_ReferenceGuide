@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-logo: images/lol-logo-rendered-hi-res.png { width= 30px }
+logo: images/lol-logo-rendered-hi-res.png { width: 30px; }
 title: League of Legends User Interface Reference Guide
 description: ---
