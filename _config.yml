@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-logo: images/riot_logo.png (index.md)
+logo: [images/riot_logo.png](index.md)
 title: League of Legends User Interface Reference Guide
 description: ---
